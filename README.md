@@ -6,7 +6,7 @@ Projeto da disciplina de Modelagem Estatística (2º Bimestre).
 * **Classificação:** Prever perfil de sono (`sleep_class`).
 
 ## Ferramentas
-* Python 3.10+
+* Python 3.10/11 (O PyCaret não funciona em python 3.12+)
 * Bibliotecas: Pandas, Seaborn, Statsmodels, Scikit-learn, PyCaret.
 
 ## Como Rodar
