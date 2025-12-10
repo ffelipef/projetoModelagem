@@ -34,7 +34,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 1.  **Clone o repositório:**
 ```bash
     git clone https://github.com/ffelipef/projetoModelagem.git
-    cd NOME_DO_REPO
+    cd projetoModelagem
 ```
 
 2.  **Instale as dependências:**
