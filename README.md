@@ -46,5 +46,6 @@ Para rodar este projeto localmente, siga os passos abaixo:
 * Na etapa de **Regressão**, modelos não-lineares (Polinomiais e Random Forest via PyCaret) superaram a Regressão Linear simples.
 * Na **Classificação**, foi possível prever com alta acurácia se um animal dorme muito ou pouco baseado apenas em seu peso e risco de predação.
 
-## 📝 Autor
-**Felipe** - Ciência da Computação (CESUPA)
+## 📝 Autores
+**Felipe de Freitas da Silva**
+**Benjamin Yuji Suzuki**
