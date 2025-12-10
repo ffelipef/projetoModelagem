@@ -45,7 +45,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 3.  **Execute o Notebook:**
 ```bash
-    jupyter notebook Projeto_Modelagem.ipynb
+    jupyter notebook projetoModelagem.ipynb
 ```
     *Nota: Se estiver usando o Google Colab, basta fazer o upload do notebook e do arquivo csv para o ambiente.*
 
